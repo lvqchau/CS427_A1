@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: d93d74e6245fc40249072cb8f523af3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7388984355970515439
+    second: yawnDog_0
+  - first:
+      213: -8576641853905838827
+    second: yawnDog_1
+  - first:
+      213: 7600736980472487079
+    second: yawnDog_2
+  - first:
+      213: 5872610302040723843
+    second: yawnDog_3
+  - first:
+      213: -3535832590149584797
+    second: yawnDog_4
+  - first:
+      213: 3573700814653328050
+    second: yawnDog_5
+  - first:
+      213: 7377802713390198405
+    second: yawnDog_6
+  - first:
+      213: -2946040738390375795
+    second: yawnDog_7
+  - first:
+      213: 6701834504660305167
+    second: yawnDog_8
+  - first:
+      213: 3961408254327124565
+    second: yawnDog_9
+  - first:
+      213: -5326554212223389134
+    second: yawnDog_10
+  - first:
+      213: 2129083073695766107
+    second: yawnDog_11
+  - first:
+      213: 1339523264944239158
+    second: yawnDog_12
+  - first:
+      213: -5838053505836537735
+    second: yawnDog_13
+  - first:
+      213: 1678339592871262080
+    second: yawnDog_14
+  - first:
+      213: 5410117040421278130
+    second: yawnDog_15
+  - first:
+      213: -2754954136019213041
+    second: yawnDog_16
+  - first:
+      213: 1079700064385957920
+    second: yawnDog_17
+  - first:
+      213: 2149318870981477474
+    second: yawnDog_18
+  - first:
+      213: 6365978898648493935
+    second: yawnDog_19
+  - first:
+      213: -3393904299909016911
+    second: yawnDog_20
+  - first:
+      213: 2983330491781393922
+    second: yawnDog_21
+  - first:
+      213: 7521577210409244890
+    second: yawnDog_22
+  - first:
+      213: -4759525374132500936
+    second: yawnDog_23
+  - first:
+      213: 1307006250546779696
+    second: yawnDog_24
+  - first:
+      213: -1772183083191543783
+    second: yawnDog_25
+  - first:
+      213: 7788327335445969103
+    second: yawnDog_26
+  - first:
+      213: -4846505762600216950
+    second: yawnDog_27
+  - first:
+      213: -8165886520223005855
+    second: yawnDog_28
+  - first:
+      213: 6316886795878969893
+    second: yawnDog_29
+  - first:
+      213: 1121546522522948334
+    second: yawnDog_30
+  - first:
+      213: 1727732437777674173
+    second: yawnDog_31
+  - first:
+      213: 3954195727901938832
+    second: yawnDog_32
+  - first:
+      213: -7293378817277371930
+    second: yawnDog_33
+  - first:
+      213: 7384513998876210580
+    second: yawnDog_34
+  - first:
+      213: 1814466370271846655
+    second: yawnDog_35
+  - first:
+      213: 4442290780798965215
+    second: yawnDog_36
+  - first:
+      213: 8738211130645316595
+    second: yawnDog_37
+  - first:
+      213: -3597077454322309694
+    second: yawnDog_38
+  - first:
+      213: 5159913666191801987
+    second: yawnDog_39
+  - first:
+      213: -9019937581120852912
+    second: yawnDog_40
+  - first:
+      213: -6921740828454331700
+    second: yawnDog_41
+  - first:
+      213: -1506012155797990359
+    second: yawnDog_42
+  - first:
+      213: -3906951620471229081
+    second: yawnDog_43
+  - first:
+      213: 7062261322275182841
+    second: yawnDog_44
+  - first:
+      213: 1897918666688456329
+    second: yawnDog_45
+  - first:
+      213: 8427315506314860492
+    second: yawnDog_46
+  - first:
+      213: 8063470057146404226
+    second: yawnDog_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yawnDog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2430
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e757370ed057990800000000000000
+      internalID: -7388984355970515439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2430
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dd134cca5a9f880800000000000000
+      internalID: -8576641853905838827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2430
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acdc38630e3b7960800000000000000
+      internalID: 7600736980472487079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2430
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381df6d84f3bf7150800000000000000
+      internalID: 5872610302040723843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2430
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36872ee2ef23eeec0800000000000000
+      internalID: -3535832590149584797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8fe6e4f5589130800000000000000
+      internalID: 3573700814653328050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2160
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e29828a78336660800000000000000
+      internalID: 7377802713390198405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2160
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d828966ae8f8d17d0800000000000000
+      internalID: -2946040738390375795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2160
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05cbb169f2b10d50800000000000000
+      internalID: 6701834504660305167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2160
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552f771a1dfb9f630800000000000000
+      internalID: 3961408254327124565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232709f4a274416b0800000000000000
+      internalID: -5326554212223389134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1890
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56dee076c50c8d10800000000000000
+      internalID: 2129083073695766107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1890
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6327f57ff41f69210800000000000000
+      internalID: 1339523264944239158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1890
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a3ec84411bfea0800000000000000
+      internalID: -5838053505836537735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1890
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b09da7f8aa4710800000000000000
+      internalID: 1678339592871262080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11993c8c8941b40800000000000000
+      internalID: 5410117040421278130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1620
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e4164fcf64c9d0800000000000000
+      internalID: -2754954136019213041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1620
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02001b1fc7ddbfe00800000000000000
+      internalID: 1079700064385957920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1620
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26405e5202ae3dd10800000000000000
+      internalID: 2149318870981477474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1620
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f63957410885850800000000000000
+      internalID: 6365978898648493935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2904a550e66e0d0800000000000000
+      internalID: -3393904299909016911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1350
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea832a64be66920800000000000000
+      internalID: 2983330491781393922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1350
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8dd113f92026860800000000000000
+      internalID: 7521577210409244890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1350
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836cf57a3e4c2fdb0800000000000000
+      internalID: -4759525374132500936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1350
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0365e03924b632210800000000000000
+      internalID: 1307006250546779696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918596110e0f767e0800000000000000
+      internalID: -1772183083191543783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1080
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8b8bf7272b51c60800000000000000
+      internalID: 7788327335445969103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1080
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a869452dfa0cdbcb0800000000000000
+      internalID: -4846505762600216950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1080
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16305fd7971fcae80800000000000000
+      internalID: -8165886520223005855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1080
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522b8b292171aa750800000000000000
+      internalID: 6316886795878969893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee21e0abe98809f00800000000000000
+      internalID: 1121546522522948334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 810
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf68ac8f732af710800000000000000
+      internalID: 1727732437777674173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 810
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09456f5701020e630800000000000000
+      internalID: 3954195727901938832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 810
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d2df8b96b8ca90800000000000000
+      internalID: -7293378817277371930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 810
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4957aed6b501b7660800000000000000
+      internalID: 7384513998876210580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff022f0ec874e2910800000000000000
+      internalID: 1814466370271846655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 540
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d38acdef26ad30800000000000000
+      internalID: 4442290780798965215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 540
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f38a7ee9bc544970800000000000000
+      internalID: 8738211130645316595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 540
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c56d890d1d941ec0800000000000000
+      internalID: -3597077454322309694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_39
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 540
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ebb091422bb9740800000000000000
+      internalID: 5159913666191801987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c68154f8eb2d280800000000000000
+      internalID: -9019937581120852912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 270
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca59a4b36901ff90800000000000000
+      internalID: -6921740828454331700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 270
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249d3a6ce1991be0800000000000000
+      internalID: -1506012155797990359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 270
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765fc2b7338b7c9c0800000000000000
+      internalID: -3906951620471229081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 270
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f851315141320260800000000000000
+      internalID: 7062261322275182841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9866c84c8f2c65a10800000000000000
+      internalID: 1897918666688456329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7d90c9dc6d3f470800000000000000
+      internalID: 8427315506314860492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yawnDog_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dc53d7b4337ef60800000000000000
+      internalID: 8063470057146404226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
